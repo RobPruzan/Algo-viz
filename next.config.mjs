@@ -23,8 +23,6 @@ const config = {
   images: {
     domains: ["images.unsplash.com", "localhost", "tailwindui.com"],
   },
-  env: {
-    TINY_MCE_KEY: "63x33yj785lej7lh42k4zm6fzfanwfj9iu8mc4dkufg6z9dy",
-  },
+  env: {},
 };
 export default config;
